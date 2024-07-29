@@ -1,0 +1,3 @@
+[submodule "Python-Algorithms"]
+	path = Python-Algorithms
+	url = git@github.com:Achref-Znaidia/Python-Algorithms.git
